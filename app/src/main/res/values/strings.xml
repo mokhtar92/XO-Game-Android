@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Tic-Tac-Toe</string>
+    <string name="str_restart_game">Restart Game</string>
+    <string name="str_start_new_game">Start New Game</string>
+    <string name="str_draw">Draw!</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_ok">OK</string>
+    <string name="str_restart_alert_message">Do you want to restart the game?</string>
+    <string name="str_exit_alert_message">Are you sure you want to exit?</string>
+    <string name="str_confirmation">Confirmation</string>
+    <string name="tap_on_any_square_to_start_playing">Tap on any square to start playing</string>
+</resources>

@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
 
                     //check winner starting from step 5 when we could get combination of 3 for a player
                     if (counter >= 4) {
-                        if (hasWon() && counter < 9) {
+                        if (hasWon()) {
                             setGameBoardToUnClickable();
                             String result = "Player " + (counter % 2 == 0 ? "1" : "2") + " wins";
                             resultTextView.setText(result);
